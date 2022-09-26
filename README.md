@@ -3,4 +3,4 @@ Tento repozitář slouží ke sdílení souborů k tisku na 3D tiskárnách Gymj
 ---
 ## Štábní kultůra
 Soubory přidávejt do repozitáře volně, pokud chcete něco vytisknout, přidejte k danému souboru _issue_  
-Pokud něco vytisknete, označte issue za _resolved_
+Pokud něco vytisknete, označte issue za _closed_ , nebo to alespoň requestněte (pokud vám to nepůjde)
